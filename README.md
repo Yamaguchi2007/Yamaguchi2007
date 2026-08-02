@@ -89,11 +89,7 @@ fun_fact: I built a Snake game replica in C
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Yamaguchi2007/Yamaguchi2007/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
 
 <br/>
 
